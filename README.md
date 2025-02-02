@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinmay1083
-- 👀 I’m interested in learning and practicing related to Data Structures And Algorithms as well as Backend Developement
-- 🌱 I’m currently learning Backend Developement but would also like to collaborate on AI/ML based learning projects
-- 💞️ I’m looking to collaborate on a project related to full stack developement
+- 👀 Enthusiastic Competitive Programmer with a rating of 3-Stars @ CodeChef and Specialist @ Codeforces 
+- 🌱 I’m currently learning Backend Developement but would also like to collaborate on Machine Learning Projects 
+- 💞️ Holding a research collaborated Publication in my name along with 2 Research Internships in Machine Learning  
 - 📫 You can reach me out on Linkedin or on my Github profile "Chinmay1083"
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
